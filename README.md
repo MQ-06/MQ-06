@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="color:#0D47A1; text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8);">
-  <span style="color: #0D47A1;">MARIAM QADEEM HERE 💻! <img src="https://img.icons8.com/?size=512&id=90511&format=png" width="30" alt="Software Engineer Icon"/></span>
+  <span style="color: #0D47A1;">MARIAM QADEEM HERE 👋 <img src="https://img.icons8.com/?size=512&id=90511&format=png" width="30" alt="Software Engineer Icon"/></span>
 </h1>
 
 <p align="center">
@@ -11,6 +11,25 @@
    <i> Software Engineer | MERN Stack | Problem Solver </i>
   </span>
 </p>
+
+
+## 🧑‍💻 About Me
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Loading_icon.gif" alt="Loading" width="30" height="30" />
+</div>
+
+###      👋 I’m Mariam Qadeem, a full-stack developer turning ideas into powerful, real-world solutions.
+
+
+☕ When I'm not coding, you can find me sipping coffee and trying to figure out why my code works at 3 AM but not during the day.  
+🔥 Currently exploring the endless possibilities of ML/AI and building MERN stack applications that make a difference.  
+🚀 I believe in coding with both logic and heart – and sometimes, a bit of humor goes a long way to debug that stubborn error!  
+💡 I participate in hackathons, solve problems at lightning speed, and keep learning while keeping the fun alive.  
+🤖 If I’m not coding, I’m probably overthinking an AI model or debating whether coffee can truly be considered a food group. 😂
+
+
+
 <h2 >
   <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30"> Skills
 </h2>
