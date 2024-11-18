@@ -30,6 +30,10 @@
 </div>
 
 
+## ⚡ GitHub Stats
 
-
-
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=MQ-06&show_icons=true&count_private=true&theme=dark" alt="MQ-06's GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MQ-06&layout=compact&langs_count=10&theme=dark" alt="MQ-06's Most Used Languages" />
+</div>
