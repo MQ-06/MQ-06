@@ -12,7 +12,7 @@
 
 <p align="center">
   <span style="color: #B0BEC5; font-size: 20px;">
-   <i> Software Engineer | MERN Stack | Problem Solver | AI Enthusiast </i>
+   <i> Software Engineer | Problem Solver | AI Enthusiast </i>
   </span>
 </p>
 
