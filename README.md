@@ -23,7 +23,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Loading_icon.gif" alt="Loading" width="30" height="30" />
 </div>
 
-###      👋 I’m Mariam Qadeem, a full-stack developer turning ideas into powerful, real-world solutions.
+###      👋 I’m Mariam Qadeem — a full-stack developer exploring the world of AI.
+
 
 
 ☕ When I'm not coding, you can find me sipping coffee and trying to figure out why my code works at 3 AM but not during the day.  
