@@ -12,7 +12,7 @@
 
 <p align="center">
   <span style="color: #B0BEC5; font-size: 20px;">
-   <i> Software Engineer | MERN Stack | Problem Solver </i>
+   <i> Software Engineer | MERN Stack | Problem Solver | AI Enthusiast </i>
   </span>
 </p>
 
@@ -23,7 +23,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Loading_icon.gif" alt="Loading" width="30" height="30" />
 </div>
 
-###      👋 I’m Mariam Qadeem — a full-stack developer exploring the world of AI.
+###      👋 I’m Mariam Qadeem - a full-stack developer exploring the world of AI.
 
 
 
