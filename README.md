@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=MQ-06&color=8FAF8F&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+<br/><br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=8FAF8F&center=true&vCenter=true&width=700&lines=Software+Engineering+%7C+Full-Stack+Systems;Applied+AI+%26+Computer+Vision;Building+Production-Grade+Software;Calm+Code.+Serious+Impact." />
 
 <br/><br/>
@@ -199,37 +203,11 @@ Docker           ████████░░░░   75%
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/📧_Email-8FAF8F?style=for-the-badge&logoColor=ffffff" />
-      <br><br>
-      <a href="mailto:mariamqadeem006@gmail.com" style="text-decoration: none;">
-        <strong>mariamqadeem006@gmail.com</strong>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/📱_Phone-8FAF8F?style=for-the-badge&logoColor=ffffff" />
-      <br><br>
-      <strong>+92 309 9837762</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <br>
-      <img src="https://img.shields.io/badge/💼_LinkedIn-8FAF8F?style=for-the-badge&logoColor=ffffff" />
-      <br><br>
-      <a href="https://linkedin.com/in/mariam-qadeem-🇵🇰-9aa839202" style="text-decoration: none;">
-        <strong>Connect with me on LinkedIn</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+📧 **Email:** [mariamqadeem006@gmail.com](mailto:mariamqadeem006@gmail.com)
+
+💼 **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/mariam-qadeem-🇵🇰-9aa839202)
 
 <br>
-
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=MQ-06&color=8FAF8F&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
