@@ -33,9 +33,6 @@ I turn chai ☕ into code and ideas into products. Currently teaching computers 
   <tr>
     <td width="50%">
       
-**🎓 Background**
-
-Final year IT student at Punjab University with a thing for making AI work for real people, not just research papers.
 
 **🔭 Currently Building**
 
@@ -146,11 +143,10 @@ Docker           ████████░░░░   75%
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MQ-06&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f0d&title_color=8FAF8F&icon_color=8FAF8F&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MQ-06&theme=dark&hide_border=true&background=0a0f0d&stroke=8FAF8F&ring=8FAF8F&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8FAF8F" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MQ-06&layout=compact&theme=dark&hide_border=true&bg_color=0a0f0d&title_color=8FAF8F&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MQ-06&bg_color=0a0f0d&color=ffffff&line=8FAF8F&point=8FAF8F&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
@@ -200,8 +196,6 @@ Docker           ████████░░░░   75%
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Let's Connect & Build
 
 <div align="center">
-
-### 💬 Open to Collaborations, Cool Projects & Opportunities
 
 <br>
 
