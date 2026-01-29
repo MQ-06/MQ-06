@@ -205,7 +205,4 @@ developer = {
 <div align="center">
 
 <br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0a0f0d"/>
-
 </div>
