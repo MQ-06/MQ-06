@@ -67,6 +67,26 @@ Projects in AI/ML, Full-Stack Development, or anything that creates real-world i
 
 </div>
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Let's Connect & Build
+
+<div align="center">
+
+<br>
+
+📧 **Email:** [mariamqadeem006@gmail.com](mailto:mariamqadeem006@gmail.com)
+
+💼 **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/mariam-qadeem-🇵🇰-9aa839202)
+
+<br>
+
+</div>
+
+<div align="center">
+  
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Arsenal
 
 <div align="center">
@@ -162,28 +182,19 @@ Docker           ████████░░░░   75%
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="28"> Chaos & Curiosities
 
-<div align="center">
+```python
+developer = {
+    "peak_hours": "3 AM - 6 AM (chai-powered obviously)",
+    "philosophy": "Everything is cute. Bugs? Cute. Errors? Adorable. Segmentation faults? Precious.",
+    "fuel": "~8 cups of chai/day (basically my bloodtype)",
+    "motto": "Code that ships > Code that sits in branches forever",
+    "weekend_protocol": "badminton → volunteer → more badminton",
+    "daily_interactions": "Talking to AI models more than actual humans (no regrets)",
+    "bedtime_stories": "Reading documentation at 2 AM"
+}
+```
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   🌙  Peak debugging hours: 3 AM - 6 AM (chai-powered obviously)    ║
-║                                                                      ║
-║   🥺  Everything is cute. Bugs? Cute. Errors? Adorable.             ║
-║       Segmentation faults? Absolutely precious.                      ║
-║                                                                      ║
-║   ☕  Chai consumption: ~8 cups/day (it's basically my bloodtype)   ║
-║                                                                      ║
-║   🎯  Code that ships > Code that sits in branches forever          ║
-║                                                                      ║
-║   🏸  Weekend protocol: badminton → volunteer → more badminton      ║
-║                                                                      ║
-║   🤖  Talking to AI models more than actual humans (no regrets)     ║
-║                                                                      ║
-║   📚  Reading documentation at 2 AM counts as bedtime stories       ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
 
 <br>
 
@@ -192,29 +203,9 @@ Docker           ████████░░░░   75%
 </div>
 
 <div align="center">
-  
-### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Let's Connect & Build
-
-<div align="center">
 
 <br>
 
-📧 **Email:** [mariamqadeem006@gmail.com](mailto:mariamqadeem006@gmail.com)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0a0f0d"/>
 
-💼 **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/mariam-qadeem-🇵🇰-9aa839202)
-
-<br>
-
-</div>
-
-<div align="center">
-  
-
-</div>
-
-  
 </div>
