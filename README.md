@@ -24,31 +24,22 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 I turn chai ☕ into code and ideas into products. Currently teaching computers to see the world through computer vision while building tools that actually matter to people.
 
-🎓 **What I'm about:** Final year IT student at Punjab University with a thing for making AI work for real people, not just research papers.
-
-💼 **Currently:** Building StreetLight - teaching AI to spot potholes and broken streetlights so cities can actually fix them. (92% accuracy and counting!)
-
 <br clear="right"/>
-
-<div align="center">
-  
-### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> What I'm Cooking Right Now
 
 <table>
   <tr>
     <td width="50%">
       
-**🔭 Currently Working On**
+**🎓 Background**
 
-Teaching machines to identify civic issues through computer vision. Think neural networks meets real-world problems.
+Final year IT student at Punjab University with a thing for making AI work for real people, not just research papers.
+
+**🔭 Currently Building**
+
+StreetLight - teaching AI to spot potholes and broken streetlights so cities can actually fix them. (92% accuracy and counting!)
 
 **🌱 Learning Journey**
 
@@ -57,13 +48,13 @@ Advanced Computer Vision with PyTorch & diving deep into Cloud Architecture patt
   </td>
     <td width="50%">
       
-**💡 Exploring**
+**💡 What Drives Me**
 
-How to make AI accessible and actually useful for everyday problems
+Making AI accessible and actually useful for everyday problems. Code that ships > Code that sits in branches forever.
 
-**👯 Let's Collaborate**
+**👯 Open to Collaborate**
 
-Open to projects in AI/ML, Full-Stack, or anything that makes an impact
+Projects in AI/ML, Full-Stack Development, or anything that creates real-world impact
 
   </td>
   </tr>
@@ -83,69 +74,65 @@ Open to projects in AI/ML, Full-Stack, or anything that makes an impact
 
 <table>
 <tr>
-<td width="50%" valign="top" style="background-color: #0a0f0d;">
+<td width="50%" valign="top">
 
-#### <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind" /> Frontend & Mobile
+#### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind" />
 
-```diff
-@@                                      @@
-+  React.js         ████████████░  95%
-+  React Native     ███████████░   90%
-+  Next.js          ████████████░  92%
-+  Flutter          ██████████░░   85%
-+  HTML/CSS/JS      █████████████  98%
-+  Tailwind CSS     ███████████░   90%
-@@                                      @@
+```
+React.js         ████████████░  95%
+React Native     ███████████░   90%
+Next.js          ████████████░  92%
+Flutter          ██████████░░   85%
+HTML/CSS/JS      █████████████  98%
+Tailwind CSS     ███████████░   90%
 ```
 
-#### <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" /> Backend & APIs
+#### Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
 
-```diff
-@@                                      @@
-+  Node.js          ███████████░   90%
-+  Express.js       ███████████░   88%
-+  Django           █████████░░░   80%
-+  Flask            ████████░░░░   75%
-+  FastAPI          ████████░░░░   78%
-+  REST APIs        ████████████   95%
-@@                                      @@
+```
+Node.js          ███████████░   90%
+Express.js       ███████████░   88%
+Django           █████████░░░   80%
+Flask            ████████░░░░   75%
+FastAPI          ████████░░░░   78%
+REST APIs        ████████████   95%
 ```
 
 </td>
-<td width="50%" valign="top" style="background-color: #0a0f0d;">
+<td width="50%" valign="top">
 
-#### <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /> AI/ML Powerhouse
+#### AI/ML Powerhouse
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
-```diff
-@@                                      @@
-+  TensorFlow       ██████████░░   85%
-+  PyTorch          ████████░░░░   80%
-+  OpenCV           ███████████░   90%
-+  Scikit-learn     ██████████░░   87%
-+  Keras            ████████░░░░   82%
-+  YOLO             ██████████░░   88%
-@@                                      @@
+```
+TensorFlow       ██████████░░   85%
+PyTorch          ████████░░░░   80%
+OpenCV           ███████████░   90%
+Scikit-learn     ██████████░░   87%
+Keras            ████████░░░░   82%
+YOLO             ██████████░░   88%
 ```
 
-#### <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,git,docker" /> Data & DevOps
+#### Data & DevOps
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,git,docker" />
 
-```diff
-@@                                      @@
-+  MongoDB          ███████████░   90%
-+  PostgreSQL       ██████████░░   85%
-+  MySQL            ██████████░░   88%
-+  Firebase         ███████████░   92%
-+  Git/GitHub       █████████████  95%
-+  Docker           ████████░░░░   75%
-@@                                      @@
+```
+MongoDB          ███████████░   90%
+PostgreSQL       ██████████░░   85%
+MySQL            ██████████░░   88%
+Firebase         ███████████░   92%
+Git/GitHub       █████████████  95%
+Docker           ████████░░░░   75%
 ```
 
 </td>
 </tr>
 </table>
 
-#### Programming Languages <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,dart" /> 
-
+#### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,dart" />
 
 </div>
 
@@ -177,7 +164,26 @@ Open to projects in AI/ML, Full-Stack, or anything that makes an impact
 
 <div align="center">
 
-
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   🌙  Peak debugging hours: 3 AM - 6 AM (chai-powered obviously)    ║
+║                                                                      ║
+║   🥺  Everything is cute. Bugs? Cute. Errors? Adorable.             ║
+║       Segmentation faults? Absolutely precious.                      ║
+║                                                                      ║
+║   ☕  Chai consumption: ~8 cups/day (it's basically my bloodtype)   ║
+║                                                                      ║
+║   🎯  Code that ships > Code that sits in branches forever          ║
+║                                                                      ║
+║   🏸  Weekend protocol: badminton → volunteer → more badminton      ║
+║                                                                      ║
+║   🤖  Talking to AI models more than actual humans (no regrets)     ║
+║                                                                      ║
+║   📚  Reading documentation at 2 AM counts as bedtime stories       ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 <br>
 
@@ -193,63 +199,50 @@ Open to projects in AI/ML, Full-Stack, or anything that makes an impact
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Let's Connect & Build
 
+<div align="center">
 
-<br><br>
-
+### 💬 Open to Collaborations, Cool Projects & Opportunities
 
 <br>
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      
-**📧 Email**  
-[mariamqadeem006@gmail.com](mailto:mariamqadeem006@gmail.com)
-
-  </td>
+      <img src="https://img.shields.io/badge/📧_Email-8FAF8F?style=for-the-badge&logoColor=ffffff" />
+      <br><br>
+      <a href="mailto:mariamqadeem006@gmail.com" style="text-decoration: none;">
+        <strong>mariamqadeem006@gmail.com</strong>
+      </a>
+    </td>
     <td align="center" width="50%">
-      
-**📱 Phone**  
-+92 309 9837762
-
-  </td>
+      <img src="https://img.shields.io/badge/📱_Phone-8FAF8F?style=for-the-badge&logoColor=ffffff" />
+      <br><br>
+      <strong>+92 309 9837762</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      
-**💼 LinkedIn**  
-[Connect with me](https://linkedin.com/in/mariam-qadeem-🇵🇰-9aa839202)
-
-  </td>
+      <br>
+      <img src="https://img.shields.io/badge/💼_LinkedIn-8FAF8F?style=for-the-badge&logoColor=ffffff" />
+      <br><br>
+      <a href="https://linkedin.com/in/mariam-qadeem-🇵🇰-9aa839202" style="text-decoration: none;">
+        <strong>Connect with me on LinkedIn</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
 <br>
 
-<a href="https://linkedin.com/in/mariam-qadeem-🇵🇰-9aa839202">
-  <img src="https://img.shields.io/badge/LinkedIn-0a0f0d?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=1a1f1c&color=8FAF8F" />
-</a>
-<a href="mailto:mariamqadeem006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0a0f0d?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=1a1f1c&color=8FAF8F" />
-</a>
-
-</div>
-
-<div align="center">
-  
-### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-<div align="center">
-
-<br>
-  
-<img src="https://komarev.com/ghpvc/?username=MQ-06&color=8FAF8F&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-  
 <br><br>
+<img src="https://komarev.com/ghpvc/?username=MQ-06&color=8FAF8F&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+</div>
+
+<div align="center">
   
 
-<br>
+</div>
+
   
 </div>
