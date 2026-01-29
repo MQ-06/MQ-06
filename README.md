@@ -2,10 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Mariam%20Qadeem&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=ffffff&color=0a0f0d&desc=Engineering%20Scalable%20Systems%20•%20Applied%20AI%20•%20Real-World%20Impact&descAlignY=58&descSize=18"/>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=MQ-06&color=8FAF8F&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=8FAF8F&center=true&vCenter=true&width=700&lines=Software+Engineering+%7C+Full-Stack+Systems;Applied+AI+%26+Computer+Vision;Building+Production-Grade+Software;Calm+Code.+Serious+Impact." />
