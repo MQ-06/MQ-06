@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Mariam%20Qadeem&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=ffffff&color=0a0f0d&desc=Engineering%20Scalable%20Systems%20•%20Applied%20AI%20•%20Real-World%20Impact&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Mariam%20Qadeem&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=ffffff&color=0a0f0d&desc=Engineering%20Scalable%20Systems%20•%20ML%20Enthusiast%20•%20Real-World%20Impact&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=8FAF8F&center=true&vCenter=true&width=700&lines=Software+Engineering+%7C+Full-Stack+Systems;Applied+AI+%26+Computer+Vision;Building+Production-Grade+Software;Calm+Code.+Serious+Impact." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=8FAF8F&center=true&vCenter=true&width=700&lines=Software+Engineering+%7C+Full-Stack+Systems;Computer+Vision+%26+Deep+Learning;Building+Production-Grade+Software;Calm+Code.+Serious+Impact." />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Full-Stack_Engineering-0a0f0d?style=for-the-badge&labelColor=1a1f1c&color=8FAF8F"/>
-<img src="https://img.shields.io/badge/Applied_AI-0a0f0d?style=for-the-badge&labelColor=1a1f1c&color=8FAF8F"/>
-<img src="https://img.shields.io/badge/Production_Systems-0a0f0d?style=for-the-badge&labelColor=1a1f1c&color=8FAF8F"/>
+<img src="https://img.shields.io/badge/Problem_Solver-0a0f0d?style=for-the-badge&labelColor=1a1f1c&color=8FAF8F"/>
+<img src="https://img.shields.io/badge/ML_Enthusiast-0a0f0d?style=for-the-badge&labelColor=1a1f1c&color=8FAF8F"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 
-I turn chai ☕ into code and ideas into products. Currently teaching computers to see the world through computer vision while building tools that actually matter to people.
+I turn chai into code and ideas into products. Currently teaching computers to see the world through computer vision while building tools that actually matter to people.
 
 <br clear="right"/>
 
@@ -98,7 +98,7 @@ Projects in AI/ML, Full-Stack Development, or anything that creates real-world i
 React.js         ████████████░  95%
 React Native     ███████████░   90%
 Next.js          ████████████░  92%
-Flutter          ██████████░░   85%
+Flutter          ██████████░░   75%
 HTML/CSS/JS      █████████████  98%
 Tailwind CSS     ███████████░   90%
 ```
@@ -124,10 +124,9 @@ REST APIs        ████████████   95%
 ```
 TensorFlow       ██████████░░   85%
 PyTorch          ████████░░░░   80%
-OpenCV           ███████████░   90%
+OpenCV           ███████████░   70%
 Scikit-learn     ██████████░░   87%
-Keras            ████████░░░░   82%
-YOLO             ██████████░░   88%
+YOLO             ██████████░░   80%
 ```
 
 #### Data & DevOps
@@ -160,11 +159,10 @@ Docker           ████████░░░░   75%
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> GitHub Activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MQ-06&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f0d&title_color=8FAF8F&icon_color=8FAF8F&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MQ-06&show_icons=true&theme=radical&hide_border=true&bg_color=0a0f0d&title_color=8FAF8F&icon_color=8FAF8F&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MQ-06&bg_color=0a0f0d&color=ffffff&line=8FAF8F&point=8FAF8F&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
