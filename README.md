@@ -178,11 +178,10 @@ Docker           ████████░░░░   75%
 
 ```python
 developer = {
-    "peak_hours": "3 AM - 6 AM (chai-powered obviously)",
-    "philosophy": "Everything is cute. Bugs? Cute. Errors? Adorable. Segmentation faults? Precious.",
+    "peak_hours": "2 AM - 6 AM ",
+    "philosophy": "Everything is cute. Bugs? Cute. Errors? Cute.",
     "fuel": "~8 cups of chai/day (basically my bloodtype)",
     "motto": "Code that ships > Code that sits in branches forever",
-    "weekend_protocol": "badminton → volunteer → more badminton",
     "daily_interactions": "Talking to AI models more than actual humans (no regrets)",
     "bedtime_stories": "Reading documentation at 2 AM"
 }
