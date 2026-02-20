@@ -96,7 +96,6 @@ Projects in AI/ML, Full-Stack Development, or anything that creates real-world i
 
 ```
 React.js         ████████████░  95%
-React Native     ███████████░   90%
 Next.js          ████████████░  92%
 Flutter          ██████████░░   75%
 HTML/CSS/JS      █████████████  98%
@@ -125,7 +124,7 @@ TensorFlow       ██████████░░   85%
 PyTorch          ████████░░░░   80%
 OpenCV           ███████████░   70%
 Scikit-learn     ██████████░░   87%
-YOLO             ██████████░░   80%
+Numpy             ██████████░░   80%
 ```
 
 #### Data & DevOps
