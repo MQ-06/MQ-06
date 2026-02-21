@@ -67,7 +67,7 @@ Projects in AI/ML, Full-Stack Development, or anything that creates real-world i
 
 <br>
 
-📧 **Email:** [mariamqadeem006@gmail.com](mailto:mariamqadeem006@gmail.com)
+📧 **Email:** [mariamqadeem181@gmail.com](mailto:mariamqadeem006@gmail.com)
 
 💼 **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/mariam-qadeem-🇵🇰-9aa839202)
 
