@@ -2,13 +2,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Mariam%20Qadeem&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=ffffff&color=0a0f0d&desc=Engineering%20Scalable%20Systems%20•%20ML%20Enthusiast%20•%20Real-World%20Impact&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=8FAF8F&center=true&vCenter=true&width=700&lines=Software+Engineering+%7C+Full-Stack+Systems;Computer+Vision+%26+Deep+Learning;Building+Production-Grade+Software;Calm+Code.+Serious+Impact." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=8FAF8F&center=true&vCenter=true&width=700&lines=Product-Focused+Software+Engineer;AI+%26+Automation+%7C+Full-Stack+Systems;RAG+Pipelines+%26+Agentic+AI;Building+Production-Grade+Software;Calm+Code.+Serious+Impact." />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Full-Stack_Engineering-0a0f0d?style=for-the-badge&labelColor=1a1f1c&color=8FAF8F"/>
-<img src="https://img.shields.io/badge/Problem_Solver-0a0f0d?style=for-the-badge&labelColor=1a1f1c&color=8FAF8F"/>
-<img src="https://img.shields.io/badge/ML_Enthusiast-0a0f0d?style=for-the-badge&labelColor=1a1f1c&color=8FAF8F"/>
+<img src="https://img.shields.io/badge/RAG_%26_Agentic_AI-0a0f0d?style=for-the-badge&labelColor=1a1f1c&color=8FAF8F"/>
+<img src="https://img.shields.io/badge/AI_%26_Automation-0a0f0d?style=for-the-badge&labelColor=1a1f1c&color=8FAF8F"/>
+<img src="https://img.shields.io/badge/Data_Engineering-0a0f0d?style=for-the-badge&labelColor=1a1f1c&color=8FAF8F"/>
 
 </div>
 
@@ -23,7 +24,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 
-I turn chai into code and ideas into products. Currently teaching computers to see the world through computer vision while building tools that actually matter to people.
+I turn chai into code and ideas into products. Product-focused engineer working at the intersection of AI, automation, and full-stack systems — from RAG pipelines and agentic workflows to end-to-end web and mobile products.
 
 <br clear="right"/>
 
@@ -34,22 +35,24 @@ I turn chai into code and ideas into products. Currently teaching computers to s
 
 **🔭 Currently Building**
 
-StreetLight - teaching AI to spot potholes and broken streetlights so cities can actually fix them. (92% accuracy and counting!)
+- **#CRACKED** — an AI-native social platform for Gen Z builders with an AI Twin system, reputation scoring, and agentic workflows
+- **Backstory-AI** — the memory layer for legacy systems; captures the why behind undocumented code through RAG-powered Q&A, cited Answer Receipts, and AI-driven expert interviews
+- **RAG & Agentic AI systems** — retrieval-augmented pipelines, multi-agent orchestration, and LLM-powered automation
 
 **🌱 Learning Journey**
 
-Advanced Computer Vision with PyTorch & diving deep into Cloud Architecture patterns
+Advanced agentic AI patterns, data engineering pipelines, and LLM fine-tuning
 
   </td>
     <td width="50%">
       
 **💡 What Drives Me**
 
-Making AI accessible and actually useful for everyday problems. Code that ships > Code that sits in branches forever.
+Shipping products that actually work in the real world. I care about the full loop — from architecture decisions to the deployed product in someone's hands.
 
 **👯 Open to Collaborate**
 
-Projects in AI/ML, Full-Stack Development, or anything that creates real-world impact
+RAG systems, agentic AI, full-stack products, or anything that ships real value. Open to remote opportunities.
 
   </td>
   </tr>
@@ -116,24 +119,24 @@ REST APIs        ████████████   95%
 </td>
 <td width="50%" valign="top">
 
-#### AI/ML Powerhouse
+#### AI/ML & Agentic Systems
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
 ```
-TensorFlow       ██████████░░   85%
+RAG Pipelines    ████████████░  90%
+Agentic AI       ███████████░   85%
 PyTorch          ████████░░░░   80%
-OpenCV           ███████████░   70%
+LLM Integration  ████████████░  90%
 Scikit-learn     ██████████░░   87%
-Numpy             ██████████░░   80%
 ```
 
-#### Data & DevOps
+#### Data Engineering & DevOps
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,git,docker" />
 
 ```
 MongoDB          ███████████░   90%
 PostgreSQL       ██████████░░   85%
-MySQL            ██████████░░   88%
+Data Pipelines   ██████████░░   82%
 Firebase         ███████████░   92%
 Git/GitHub       █████████████  95%
 Docker           ████████░░░░   75%
@@ -177,9 +180,10 @@ developer = {
     "peak_hours": "2 AM - 6 AM ",
     "philosophy": "Everything is cute. Bugs? Cute. Errors? Cute.",
     "fuel": "~8 cups of chai/day (basically my bloodtype)",
-    "motto": "Code that ships > Code that sits in branches forever",
+    "motto": "Ship products, not just features.",
+    "current_obsession": "Building agents that actually do things",
     "daily_interactions": "Talking to AI models more than actual humans (no regrets)",
-    "bedtime_stories": "Reading documentation at 2 AM"
+    "bedtime_stories": "Reading RAG architecture papers at 2 AM"
 }
 ```
 
@@ -187,7 +191,7 @@ developer = {
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=8FAF8F&center=true&vCenter=true&width=800&lines=3+AM+Brain+%3E+9+AM+Brain;Chai+%2B+Code+%3D+Perfection;Everything+Is+Cute+Period.;Ship+Fast+Break+Things+Fix+Faster;Professional+Cute+Aggressor" alt="Fun Facts Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=8FAF8F&center=true&vCenter=true&width=800&lines=3+AM+Brain+%3E+9+AM+Brain;Chai+%2B+Code+%3D+Perfection;Everything+Is+Cute+Period.;Ship+Fast+Break+Things+Fix+Faster;RAG+Pipelines+%26+Vibes" alt="Fun Facts Typing" />
 
 </div>
 
