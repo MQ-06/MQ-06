@@ -24,7 +24,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 
-I turn chai into code and ideas into products. Product-focused engineer working at the intersection of AI, automation, and full-stack systems — from RAG pipelines and agentic workflows to end-to-end web and mobile products.
+I turn chai into code and ideas into products. Product-focused engineer working at the intersection of AI, automation, and full-stack systems - from RAG pipelines and agentic workflows to end-to-end web and mobile products.
 
 <br clear="right"/>
 
@@ -48,7 +48,7 @@ Advanced agentic AI patterns, data engineering pipelines, and LLM fine-tuning
       
 **💡 What Drives Me**
 
-Shipping products that actually work in the real world. I care about the full loop — from architecture decisions to the deployed product in someone's hands.
+Shipping products that actually work in the real world. I care about the full loop from architecture decisions to the deployed product in someone's hands.
 
 **👯 Open to Collaborate**
 
